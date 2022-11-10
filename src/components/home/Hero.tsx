@@ -32,9 +32,11 @@ export function Hero() {
                         </Text>
                     </Heading>
                     <Text color={'gray.500'}>
-                        Snippy is a rich coding snippets app that lets you create your own
-                        code snippets, categorize them, and even sync them in the cloud so
-                        you can use them anywhere. All that is free!
+                        A Flexible developer with hands on experience on exquisite languages and frameworks. 
+                        I always like to keep up with the current trend while preserving the old for good. 
+                        I can adapt to new frameworks since I understand, encourage and implement design patterns on my own.
+                        
+                        - Java 11 Oracle certified
                     </Text>
                     <Stack
                         spacing={{ base: 4, sm: 6 }}
