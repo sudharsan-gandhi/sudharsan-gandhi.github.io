@@ -42,6 +42,7 @@ export function Hero() {
                         spacing={{ base: 4, sm: 6 }}
                         direction={{ base: 'column', sm: 'row' }}>
                         <Button
+                            as={'a'}
                             size={'lg'}
                             fontWeight={'normal'}
                             px={6}
@@ -54,6 +55,7 @@ export function Hero() {
                             LinkedIn
                         </Button>
                         <Button
+                            as={'a'}
                             size={'lg'}
                             fontWeight={'normal'}
                             colorScheme={'purple'}
