@@ -47,7 +47,10 @@ export function Hero() {
                             px={6}
                             colorScheme={'blue'}
                             bgGradient='linear(to-r, blue.600, pink.800)'
-                            _hover={{ bg: 'blue.600' }}>
+                            _hover={{ bg: 'blue.600' }}
+                            href={'https://www.linkedin.com/in/sudharsan-gandhi-43036379/'}
+                            target={'_blank'}
+                            >
                             LinkedIn
                         </Button>
                         <Button
@@ -56,7 +59,10 @@ export function Hero() {
                             colorScheme={'purple'}
                             bgGradient='linear(to-r, purple.500, pink.700)'
                             _hover={{ bg: 'purple.500' }}
-                            px={6}>
+                            px={6}
+                            href={'https://github.com/sudharsan-gandhi'}
+                            target={'_blank'}
+                        >
                             Github
                         </Button>
                     </Stack>
